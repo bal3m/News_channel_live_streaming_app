@@ -1,4 +1,4 @@
-#Newa Channel app
+# News Channel app
 
 This project was built to make an advertisement for News channel as will as live streaming of the channel.
 
